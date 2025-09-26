@@ -50,4 +50,3 @@ Families traveling together had higher survival rates compared to solo travelers
 **USAGE:**
 To explore data analysis, visualizations, and model training.
 
-[CHECK OUT MY LIVE PROJECT](https://njorogepaul-moghul.github.io/my-first-project/) 
